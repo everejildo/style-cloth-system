@@ -1,4 +1,4 @@
-# Style Cloth 👗
+# Style Cloth
 
 Sistema de gestión para una boutique de moda, desarrollado como proyecto académico en equipo.
 
